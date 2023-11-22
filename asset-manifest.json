@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78bb905d.css",
+    "main.js": "/static/js/main.b5502f63.js",
+    "static/media/color_logo_finfindr.png": "/static/media/color_logo_finfindr.710689c676e675e3bdf6.png",
+    "index.html": "/index.html",
+    "main.78bb905d.css.map": "/static/css/main.78bb905d.css.map",
+    "main.b5502f63.js.map": "/static/js/main.b5502f63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bb905d.css",
+    "static/js/main.b5502f63.js"
+  ]
+}
